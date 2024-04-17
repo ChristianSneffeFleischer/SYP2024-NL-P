@@ -10,7 +10,7 @@ def convert_csv_to_txt(csv_file_path, output_dir, filename_template):
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
             # Check if 'Id' field is present and not empty
-            id_value = row.get('\ufeffId', '').strip()
+            id_value = row.get('Id', '').strip()
             if not id_value:
                 continue # Skip any rows without an ID
 
