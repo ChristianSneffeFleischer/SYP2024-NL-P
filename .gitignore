@@ -2,3 +2,4 @@
 __pychache__
 .ipynb_checkpoints/
 *.pyc
+.DS_Store
