@@ -1100,7 +1100,7 @@
 1100	league	O	-	-
 1101	.	O	-	-
 1102	[SEP]	O	-	-
-1103	[CLS]	B-PER	-	-
+1103	[CLS]	O	-	-
 1104	Harry	B-PER	-	-
 1105	Kane	I-PER	-	-
 1106	has	O	-	-
@@ -1427,8 +1427,8 @@
 1427	s	I-ORG	-	-
 1428	radar	O	-	-
 1429	.	O	-	-
-1430	[SEP]	B-PER	-	-
-1431	[CLS]	B-ORG	-	-
+1430	[SEP]	O	-	-
+1431	[CLS]	O	-	-
 1432	Tottenham	B-ORG	-	-
 1433	Hot	I-ORG	-	-
 1434	##spur	I-ORG	-	-
@@ -1963,8 +1963,8 @@
 1963	Italy	B-LOC	-	-
 1964	instead	O	-	-
 1965	.	O	-	-
-1966	[SEP]	B-ORG	-	-
-1967	[CLS]	B-ORG	-	-
+1966	[SEP]	O	-	-
+1967	[CLS]	O	-	-
 1968	Liverpool	B-ORG	-	-
 1969	legend	O	-	-
 1970	and	O	-	-
@@ -2327,8 +2327,8 @@
 2327	it	O	-	-
 2328	.	O	-	-
 2329	"	O	-	-
-2330	[SEP]	B-ORG	-	-
-2331	[CLS]	B-ORG	-	-
+2330	[SEP]	O	-	-
+2331	[CLS]	O	-	-
 2332	90	B-ORG	-	-
 2333	##min	I-ORG	-	-
 2334	rounds	O	-	-
@@ -2808,8 +2808,8 @@
 2808	(	O	-	-
 2809	Sun	B-ORG	-	-
 2810	)	O	-	-
-2811	[SEP]	B-ORG	-	-
-2812	[CLS]	B-ORG	-	-
+2811	[SEP]	O	-	-
+2812	[CLS]	O	-	-
 2813	Arsenal	B-ORG	-	-
 2814	have	O	-	-
 2815	agreed	O	-	-
@@ -3143,8 +3143,8 @@
 3143	arrival	O	-	-
 3144	from	O	-	-
 3145	Freiburg	B-ORG	-	-
-3146	[SEP]	B-ORG	-	-
-3147	[CLS]	B-ORG	-	-
+3146	[SEP]	O	-	-
+3147	[CLS]	O	-	-
 3148	Paris	B-ORG	-	-
 3149	Saint	I-ORG	-	-
 3150	-	I-ORG	-	-
@@ -3758,8 +3758,8 @@
 3758	-	O	-	-
 3759	old	O	-	-
 3760	.	O	-	-
-3761	[SEP]	B-ORG	-	-
-3762	[CLS]	B-ORG	-	-
+3761	[SEP]	O	-	-
+3762	[CLS]	O	-	-
 3763	90	B-ORG	-	-
 3764	##min	I-ORG	-	-
 3765	rounds	O	-	-
@@ -4100,8 +4100,8 @@
 4100	Gale	I-PER	-	-
 4101	##tti	I-PER	-	-
 4102	)	O	-	-
-4103	[SEP]	B-ORG	-	-
-4104	[CLS]	B-ORG	-	-
+4103	[SEP]	O	-	-
+4104	[CLS]	O	-	-
 4105	Chelsea	B-ORG	-	-
 4106	have	O	-	-
 4107	completed	O	-	-
@@ -4448,8 +4448,8 @@
 4448	13	B-DAT	-	-
 4449	August	I-DAT	-	-
 4450	.	O	-	-
-4451	[SEP]	B-ORG	-	-
-4452	[CLS]	B-ORG	-	-
+4451	[SEP]	O	-	-
+4452	[CLS]	O	-	-
 4453	Chelsea	B-ORG	-	-
 4454	have	O	-	-
 4455	completed	O	-	-
@@ -4783,7 +4783,7 @@
 4783	this	O	-	-
 4784	summer	O	-	-
 4785	.	O	-	-
-4786	[SEP]	B-ORG	-	-
+4786	[SEP]	O	-	-
 4787	[CLS]	O	-	-
 4788	The	O	-	-
 4789	agent	O	-	-
@@ -5905,7 +5905,7 @@
 5905	Silva	I-PER	-	-
 5906	.	O	-	-
 5907	[SEP]	O	-	-
-5908	[CLS]	B-PER	-	-
+5908	[CLS]	O	-	-
 5909	P	B-PER	-	-
 5910	##ep	I-PER	-	-
 5911	Guard	I-PER	-	-
@@ -6922,8 +6922,8 @@
 6922	team	O	-	-
 6923	first	O	-	-
 6924	.	O	-	-
-6925	[SEP]	B-PER	-	-
-6926	[CLS]	B-ORG	-	-
+6925	[SEP]	O	-	-
+6926	[CLS]	O	-	-
 6927	Tottenham	B-ORG	-	-
 6928	have	O	-	-
 6929	turned	O	-	-
@@ -7322,8 +7322,8 @@
 7322	-	O	-	-
 7323	exchange	O	-	-
 7324	.	O	-	-
-7325	[SEP]	B-ORG	-	-
-7326	[CLS]	B-ORG	-	-
+7325	[SEP]	O	-	-
+7326	[CLS]	O	-	-
 7327	Manchester	B-ORG	-	-
 7328	United	I-ORG	-	-
 7329	hope	O	-	-
@@ -7664,8 +7664,8 @@
 7664	Athletic	B-ORG	-	-
 7665	Club	I-ORG	-	-
 7666	.	O	-	-
-7667	[SEP]	B-ORG	-	-
-7668	[CLS]	B-ORG	-	-
+7667	[SEP]	O	-	-
+7668	[CLS]	O	-	-
 7669	Barcelona	B-ORG	-	-
 7670	midfielder	O	-	-
 7671	Fr	B-PER	-	-
@@ -8084,8 +8084,8 @@
 8084	Manchester	B-ORG	-	-
 8085	City	I-ORG	-	-
 8086	.	O	-	-
-8087	[SEP]	B-ORG	-	-
-8088	[CLS]	B-ORG	-	-
+8087	[SEP]	O	-	-
+8088	[CLS]	O	-	-
 8089	Wolf	B-ORG	-	-
 8090	##sburg	I-ORG	-	-
 8091	defender	O	-	-
@@ -8444,7 +8444,7 @@
 8444	on	O	-	-
 8445	loan	O	-	-
 8446	.	O	-	-
-8447	[SEP]	B-ORG	-	-
+8447	[SEP]	O	-	-
 8448	[CLS]	O	-	-
 8449	F	O	-	-
 8450	##RO	O	-	-
@@ -9363,7 +9363,7 @@
 9363	it	O	-	-
 9364	.	O	-	-
 9365	[SEP]	O	-	-
-9366	[CLS]	B-ORG	-	-
+9366	[CLS]	O	-	-
 9367	Paris	B-ORG	-	-
 9368	Saint	I-ORG	-	-
 9369	-	I-ORG	-	-
@@ -9668,8 +9668,8 @@
 9668	the	O	-	-
 9669	weekend	O	-	-
 9670	.	O	-	-
-9671	[SEP]	B-ORG	-	-
-9672	[CLS]	B-ORG	-	-
+9671	[SEP]	O	-	-
+9672	[CLS]	O	-	-
 9673	90	B-ORG	-	-
 9674	##min	I-ORG	-	-
 9675	rounds	O	-	-
@@ -10115,8 +10115,8 @@
 10115	Mail	B-ORG	-	-
 10116	+	I-ORG	-	-
 10117	)	O	-	-
-10118	[SEP]	B-ORG	-	-
-10119	[CLS]	B-ORG	-	-
+10118	[SEP]	O	-	-
+10119	[CLS]	O	-	-
 10120	Brighton	B-ORG	-	-
 10121	&	I-ORG	-	-
 10122	Ho	I-ORG	-	-
@@ -10380,8 +10380,8 @@
 10380	will	O	-	-
 10381	feature	O	-	-
 10382	.	O	-	-
-10383	[SEP]	B-ORG	-	-
-10384	[CLS]	B-ORG	-	-
+10383	[SEP]	O	-	-
+10384	[CLS]	O	-	-
 10385	90	B-ORG	-	-
 10386	##min	I-ORG	-	-
 10387	rounds	O	-	-
@@ -10947,8 +10947,8 @@
 10947	(	O	-	-
 10948	Sun	B-ORG	-	-
 10949	)	O	-	-
-10950	[SEP]	B-ORG	-	-
-10951	[CLS]	B-PER	-	-
+10950	[SEP]	O	-	-
+10951	[CLS]	O	-	-
 10952	P	B-PER	-	-
 10953	##ep	I-PER	-	-
 10954	Guard	I-PER	-	-
@@ -11536,8 +11536,8 @@
 11536	people	O	-	-
 11537	.	O	-	-
 11538	"	O	-	-
-11539	[SEP]	B-PER	-	-
-11540	[CLS]	B-ORG	-	-
+11539	[SEP]	O	-	-
+11540	[CLS]	O	-	-
 11541	Bayern	B-ORG	-	-
 11542	Munich	I-ORG	-	-
 11543	have	O	-	-
@@ -12043,8 +12043,8 @@
 12043	Real	B-ORG	-	-
 12044	Madrid	I-ORG	-	-
 12045	.	O	-	-
-12046	[SEP]	B-ORG	-	-
-12047	[CLS]	B-ORG	-	-
+12046	[SEP]	O	-	-
+12047	[CLS]	O	-	-
 12048	Newcastle	B-ORG	-	-
 12049	United	I-ORG	-	-
 12050	have	O	-	-
@@ -12466,8 +12466,8 @@
 12466	the	O	-	-
 12467	field	O	-	-
 12468	.	O	-	-
-12469	[SEP]	B-ORG	-	-
-12470	[CLS]	B-ORG	-	-
+12469	[SEP]	O	-	-
+12470	[CLS]	O	-	-
 12471	Brighton	B-ORG	-	-
 12472	&	I-ORG	-	-
 12473	Ho	I-ORG	-	-
@@ -12875,8 +12875,8 @@
 12875	Chelsea	B-ORG	-	-
 12876	.	O	-	-
 12877	"	O	-	-
-12878	[SEP]	B-ORG	-	-
-12879	[CLS]	B-ORG	-	-
+12878	[SEP]	O	-	-
+12879	[CLS]	O	-	-
 12880	Tottenham	B-ORG	-	-
 12881	Hot	I-ORG	-	-
 12882	##spur	I-ORG	-	-
@@ -13108,5 +13108,5 @@
 13108	loan	O	-	-
 13109	spells	O	-	-
 13110	.	O	-	-
-13111	[SEP]	B-ORG	-	-
+13111	[SEP]	O	-	-
 
